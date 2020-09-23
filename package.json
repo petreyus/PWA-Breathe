@@ -1,0 +1,49 @@
+{
+  "main": "node_modules/expo/AppEntry.js",
+  "Proxy": "http://192.168.1.4:19006",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web",
+    "eject": "expo eject"
+  },
+  "dependencies": {
+    "@gcanvas/core": "^1.0.0",
+    "babel-cli": "^6.26.0",
+    "babel-preset-react-app": "^9.1.2",
+    "body-parser": "^1.19.0",
+    "ejs": "^3.0.1",
+    "expo": "^38.0.0",
+    "expo-status-bar": "^1.0.2",
+    "express": "^4.17.1",
+    "express-session": "^1.17.0",
+    "helmet": "^3.22.0",
+    "konva": "^7.1.3",
+    "mysql": "^2.18.1",
+    "nodemon": "^2.0.4",
+    "p5": "^1.1.9",
+    "pug": "^2.0.4",
+    "react": "~16.11.0",
+    "react-animista": "^1.0.2",
+    "react-dom": "~16.11.0",
+    "react-image-and-background-image-fade": "^1.0.4",
+    "react-konva": "^16.13.0-6",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-38.0.2.tar.gz",
+    "react-native-gcanvas": "0.0.7-dev",
+    "react-native-keyboard-aware-scroll-view": "^0.9.2",
+    "react-native-keyboard-aware-scrollview": "^2.1.0",
+    "react-native-keyboard-aware-view": "0.0.14",
+    "react-native-really-awesome-button": "^1.6.0",
+    "react-native-web": "~0.11.7",
+    "react-p5": "^1.3.6",
+    "react-p5-wrapper": "^2.3.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.8.6",
+    "@types/react": "~16.9.41",
+    "@types/react-native": "~0.62.13",
+    "typescript": "~3.9.5"
+  },
+  "private": true
+}
