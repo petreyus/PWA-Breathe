@@ -10,7 +10,7 @@ Built primiarly with: React native, Node, and Google Lighthouse
 
 - [x] 2nd problem solved :~~changing background images on IOS devices.~~
 
-- [x] Next problem to be solved: Timer function when user toggels/presses bench mark breath button.
+- [x] 3rd problem solved: ~~Timer function when user toggels/presses bench mark breath button.~~
 
 - [] Store data locally and upload to a server upon connection.
 
