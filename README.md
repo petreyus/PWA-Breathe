@@ -12,7 +12,7 @@ Built primiarly with: React native, Node, and Google Lighthouse
 
 - [x] 3rd problem solved: ~~Timer function when user toggels/presses bench mark breath button.~~
 
-- [] Store data locally and upload to a server upon connection.
+- [] Store data locally.
 
 - [] Upload data a server upon connection.
 
