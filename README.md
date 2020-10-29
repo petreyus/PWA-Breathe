@@ -14,6 +14,6 @@ Built primiarly with: React native, Node, and Google Lighthouse
 
 - [] Cache data locally.
 
-- [] Upload data to azure DB.
+- [] Upload data to Azure.
 
 
