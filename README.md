@@ -3,6 +3,7 @@ Progressive web application that helps increase user lung health.
 
 Built primiarly with: React native, Node, and Google Lighthouse
 
+*In Progress:*
 # Breathing app (Breath Sir Size)
 <h2>To Do List:</h2>
 
